@@ -1,0 +1,84 @@
+# Pretty Woman — Generative Engine Optimization Map
+
+> A General business.
+
+---
+
+## Pages
+
+### Home
+https://pretty-woman-fca8c594.zappy5.app
+
+### About
+https://pretty-woman-fca8c594.zappy5.app/about
+
+### Lookbook
+https://pretty-woman-fca8c594.zappy5.app/lookbook
+
+### Contact
+https://pretty-woman-fca8c594.zappy5.app/contact
+
+### Products
+https://pretty-woman-fca8c594.zappy5.app/products
+המוצרים שלנו - Pretty Woman
+
+### Cart
+https://pretty-woman-fca8c594.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://pretty-woman-fca8c594.zappy5.app/checkout
+תשלום
+
+### Login
+https://pretty-woman-fca8c594.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://pretty-woman-fca8c594.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://pretty-woman-fca8c594.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://pretty-woman-fca8c594.zappy5.app/product/:slug
+פרטי המוצר - Pretty Woman
+
+### Category
+https://pretty-woman-fca8c594.zappy5.app/category/:slug
+מוצרים - Pretty Woman
+
+## Legal & Policy
+
+### Privacy Policy
+https://pretty-woman-fca8c594.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://pretty-woman-fca8c594.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://pretty-woman-fca8c594.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Pretty Woman
+Pretty Woman is a business in the General industry.
+
+## Target Audience
+
+## Industry
+General
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://pretty-woman-fca8c594.zappy5.app/sitemap.xml
+- **Robots.txt**: https://pretty-woman-fca8c594.zappy5.app/robots.txt

@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://pretty-woman-fca8c594.zappy5.app/sitemap.xml
